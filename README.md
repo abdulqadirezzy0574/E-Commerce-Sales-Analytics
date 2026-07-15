@@ -22,7 +22,7 @@ By converting raw sales data into meaningful insights, this project demonstrates
 - <a href="https://github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/Project%20Findings">Project findings</a>
 
 ## Future Approach For Better Profitability
-- <a href="">Future Approach</a>
+- <a href="https://github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/Future%20Approach">Future Approach</a>
 
 
 
