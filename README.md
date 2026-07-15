@@ -7,22 +7,22 @@ The objective of this project is to analyze e-commerce sales data using SQL and 
 By converting raw sales data into meaningful insights, this project demonstrates the use of SQL for data analysis and Power BI for data visualization. The findings can help businesses improve customer experience, optimize inventory, increase sales, and make better business decisions based on data.
 
 ## Dataset Used
-- <a href="github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/E-Commerce%20Sales%20Data.csv">Dataset</a>
+- <a href="">Dataset</a>
 
 ## Questions KPI's
-- <a href="github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/SQL_Analytics_Questions">KPI's</a>
+- <a href="">KPI's</a>
 
 ## KPI's Solution in SQL
-- <a href="github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/E-Commerce%20Sales%20Analytics%20SQL%20Solutions.sql">Solution</a>
+- <a href="">Solution</a>
 
 ## Power Bi Dashboard
-- <a href="github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/customer_behavior_dashboard.png">Dashboard</a>
+- <a href="">Dashboard</a>
 
 ## Project Findings
-- <a href="github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/Project%20Findings">Project findings</a>
+- <a href="">Project findings</a>
 
 ## Future Approach For Better Profitability
-- <a href="github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/Future%20Approach">Future Approach</a>
+- <a href="">Future Approach</a>
 
 
 
