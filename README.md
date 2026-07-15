@@ -10,7 +10,7 @@ By converting raw sales data into meaningful insights, this project demonstrates
 - <a href="https://github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/E-Commerce%20Sales%20Data.csv">Dataset</a>
 
 ## Questions KPI's
-- <a href="">KPI's</a>
+- <a href="https://github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/SQL_Analytics_Questions">KPI's</a>
 
 ## KPI's Solution in SQL
 - <a href="">Solution</a>
