@@ -16,7 +16,7 @@ By converting raw sales data into meaningful insights, this project demonstrates
 - <a href="https://github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/E-Commerce%20Sales%20Analytics%20SQL%20Solutions.sql">Solution</a>
 
 ## Power Bi Dashboard
-- <a href="">Dashboard</a>
+- <a href="https://github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/customer_behavior_dashboard.png">Dashboard</a>
 
 ## Project Findings
 - <a href="">Project findings</a>
