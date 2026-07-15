@@ -21,7 +21,7 @@ By converting raw sales data into meaningful insights, this project demonstrates
 ## Project Findings
 - <a href="">Project findings</a>
 
-## Future Approach
+## Future Approach For Better Profitability
 - <a href="">Future Approach</a>
 
 
