@@ -7,7 +7,7 @@ The objective of this project is to analyze e-commerce sales data using SQL and 
 By converting raw sales data into meaningful insights, this project demonstrates the use of SQL for data analysis and Power BI for data visualization. The findings can help businesses improve customer experience, optimize inventory, increase sales, and make better business decisions based on data.
 
 ## Dataset Used
-- <a href="">Dataset</a>
+- <a href="https://github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/E-Commerce%20Sales%20Data.csv">Dataset</a>
 
 ## Questions KPI's
 - <a href="">KPI's</a>
