@@ -9,10 +9,10 @@ By converting raw sales data into meaningful insights, this project demonstrates
 ## Dataset Used
 - <a href="https://github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/E-Commerce%20Sales%20Data.csv">Dataset</a>
 
-## Questions KPI's
-- <a href="https://github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/SQL_Analytics_Questions">KPI's</a>
+## SQL Business Questions 
+- <a href="https://github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/SQL_Analytics_Questions">Questions</a>
 
-## KPI's Solution in SQL
+## Business Questions Solution in SQL
 - <a href="https://github.com/abdulqadirezzy0574/E-Commerce-Sales-Analytics/blob/main/E-Commerce%20Sales%20Analytics%20SQL%20Solutions.sql">Solution</a>
 
 ## Power Bi Dashboard
